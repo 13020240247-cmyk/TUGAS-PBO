@@ -1,5 +1,5 @@
 /* NIM   : 13020240247
-Nama  : ari AAfrisal
+Nama  : Ari Afrisal
 Hari/Tanggal : 18 April 2026
 Waktu : 13:00*/
 
